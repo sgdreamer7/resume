@@ -1,3 +1,3 @@
 # RESUME
 
-This is [my resume](scherbina_resume.pdf) as of December 2018.
+This is [my resume](scherbina_resume.pdf) as of January 2019.
